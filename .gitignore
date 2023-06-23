@@ -2,8 +2,7 @@ HELP.md
 build/
 bin/
 target/
-out/
-.idea/
+out
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
